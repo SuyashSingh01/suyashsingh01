@@ -5,7 +5,7 @@
 [![SuyashSingh's Stack Overflow | Stats](https://stats.quine.sh/SuyashSingh/stack-overflow?theme=dark)](https://quine.sh)
 
 ### Hi there 👋
-   <h1 align="center">Hi 👋, I'm Suyash singh</h1>
+   <h1 align="center">Hi 👋, I'm Suyash singh   <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashsingh01" alt="suyashsingh01" /></a> </p> -->
