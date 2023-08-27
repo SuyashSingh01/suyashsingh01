@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Hackathon**
+<!-- - 👯 I’m looking to collaborate on **Hackathon** -->
 
 - 💬 Ask me about **Data structure and algorithm**
 
