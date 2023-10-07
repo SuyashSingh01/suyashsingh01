@@ -4,7 +4,6 @@
 [![SuyashSingh's GitHub | Stats](https://stats.quine.sh/SuyashSingh/github?theme=dark)](https://quine.sh)
 [![SuyashSingh's Stack Overflow | Stats](https://stats.quine.sh/SuyashSingh/stack-overflow?theme=dark)](https://quine.sh)
 [![An image of @suyashsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suyashsingh01)](https://holopin.io/@suyashsingh01)
-[![An image of @suyashsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suyashsingh01)](https://holopin.io/@suyashsingh01)
 
 
 ### Hi there 👋
