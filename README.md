@@ -3,6 +3,9 @@
 [![SuyashSingh's GitHub | Languages Over Time](https://stats.quine.sh/SuyashSingh/languages-over-time?theme=light)](https://quine.sh)
 [![SuyashSingh's GitHub | Stats](https://stats.quine.sh/SuyashSingh/github?theme=dark)](https://quine.sh)
 [![SuyashSingh's Stack Overflow | Stats](https://stats.quine.sh/SuyashSingh/stack-overflow?theme=dark)](https://quine.sh)
+[![An image of @suyashsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suyashsingh01)](https://holopin.io/@suyashsingh01)
+[![An image of @suyashsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suyashsingh01)](https://holopin.io/@suyashsingh01)
+
 
 ### Hi there 👋
    <h1 align="center">Hi 👋, I'm Suyash singh <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
