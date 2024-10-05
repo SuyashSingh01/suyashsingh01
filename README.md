@@ -1,5 +1,6 @@
 
-[![SuyashSingh's GitHub | Topics Over Time](https://stats.quine.sh/SuyashSingh/topics-over-time?theme=dark)](https://quine.sh)
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+<!-- [![SuyashSingh's GitHub | Topics Over Time](https://stats.quine.sh/SuyashSingh/topics-over-time?theme=dark)]-->
 [![SuyashSingh's GitHub | Languages Over Time](https://stats.quine.sh/SuyashSingh/languages-over-time?theme=light)](https://quine.sh)
 [![SuyashSingh's GitHub | Stats](https://stats.quine.sh/SuyashSingh/github?theme=dark)](https://quine.sh)
 [![SuyashSingh's Stack Overflow | Stats](https://stats.quine.sh/SuyashSingh/stack-overflow?theme=dark)](https://quine.sh)
