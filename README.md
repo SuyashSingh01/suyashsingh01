@@ -1,11 +1,37 @@
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
-<!-- [![SuyashSingh's GitHub | Topics Over Time](https://stats.quine.sh/SuyashSingh/topics-over-time?theme=dark)]-->
+<!-- [![SuyashSingh's GitHub | Topics Over Time](https://stats.quine.sh/SuyashSingh/topics-over-time?theme=dark)]
 [![SuyashSingh's GitHub | Languages Over Time](https://stats.quine.sh/SuyashSingh/languages-over-time?theme=light)](https://quine.sh)
 [![SuyashSingh's GitHub | Stats](https://stats.quine.sh/SuyashSingh/github?theme=dark)](https://quine.sh)
-[![SuyashSingh's Stack Overflow | Stats](https://stats.quine.sh/SuyashSingh/stack-overflow?theme=dark)](https://quine.sh)
-[![An image of @suyashsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suyashsingh01)](https://holopin.io/@suyashsingh01)
+[![SuyashSingh's Stack Overflow | Stats](https://stats.quine.sh/SuyashSingh/stack-overflow?theme=dark)](https://quine.sh) -->
+ ## :chart_with_upwards_trend: Current Stats
+</br>
+</div>
+<br />
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashSingh01&theme=gotham&show_icons=true" alt="suyash"/>
 
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=SuyashSingh01&show_icons=true&theme=gotham"/>
+</p>
+
+<p align="center">
+    <a href="https://github.com/SuyashSingh01"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuyashSingh01&theme=tokyonight&hide_border=true"  width="520" alt="SuyashSingh01"/></a>
+<a href="https://github.com/SuyashSingh01"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuyashSingh01&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="SuyashSingh01"/></a>
+</p>
+<!---[![An image of @suyashsingh01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suyashsingh01)](https://holopin.io/@suyashsingh01) -->
+<!-- ## :Activity -->
+
+![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuyashSingh01&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+<p align="center">
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+</p>
+<br>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SuyashSingh01&layout=compact&theme=algolia" alt="SuyashSingh01" />
+ </a>
+</p>
+<br>
 
 ### Hi there 👋
    <h1 align="center">Hi 👋, I'm Suyash singh <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
