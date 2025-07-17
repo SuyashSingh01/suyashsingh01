@@ -36,7 +36,7 @@
 ### Hi there 👋
    <h1 align="center">Hi 👋, I'm Suyash singh <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img src="https://komarev.com/ghpvc/?username=SuyashSingh01&color=green">
+<img src="https://komarev.com/ghpvc/?username=SuyashSingh01&color=green&base=100">
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
